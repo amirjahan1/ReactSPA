@@ -1,9 +1,0 @@
-p{font-family: 'Amatic SC', cursive;}
-
-h1{font-family: 'Palette Mosaic', cursive;}
-
-h2{font-family: 'Patrick Hand', cursive;}
-
-.mainCard:hover img{
-    background-image: linear-gradient( to right, #F59E0B , #EC4899);
-}
