@@ -15,7 +15,7 @@ export const About=()=>(
                     <h2>FullSTACK DEVELOPER</h2>
                     <div/>
                     <div className="mt-8">
-                        <a href="https://www.instagram.com/amirjahan_1"
+                        <a href="mailto: amirjahan454@gmail.com"
                            className="bg-blue text-white font-medium tracking-wide py-2 px-4 rounded-full shadow-md hover:shadow-lg no-underline"
                            target="_blank">
                             <i className="far fa-envelope"></i> Contact Me
