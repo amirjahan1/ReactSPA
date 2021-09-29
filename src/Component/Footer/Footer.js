@@ -41,7 +41,7 @@ function Footer() {
                     </div>
                 </div>
                 <div className="mt-5 md:col-span-12 text-center text-gray-400 pt-2">
-                   A project build with <a href="https://github.com/amirjahan1" target="_blank" className="underline font-extrabold">Amir Jahan</a>
+                   A project made by <a href="https://github.com/amirjahan1" target="_blank" className="underline font-extrabold">Amir Jahan</a>
                 </div>
             </footer>
         </>
